@@ -40,7 +40,7 @@ foreach($list_items->items as $item)
     ';
 }
 ```
-##Get Channet ID
+##Get Channel ID
 https://commentpicker.com/youtube-channel-id.php
 
 
